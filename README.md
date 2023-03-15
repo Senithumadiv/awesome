@@ -1,3 +1,6 @@
+[![](./theme/titus-theme/demo.png)](https://www.reddit.com/r/unixporn/comments/anp51q/awesome_material_awesome_workflow/)
+*[Click to view in high quality](https://www.reddit.com/r/unixporn/comments/anp51q/awesome_material_awesome_workflow/)*
+
 I made some of my configs from chris titus https://github.com/ChrisTitusTech on youtube
 
 ### 1) Get all the dependencies
