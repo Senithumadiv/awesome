@@ -1,6 +1,6 @@
 I made some of my configs from chris titus https://github.com/ChrisTitusTech on youtube
 
-![alt text](file:///home/seni/Pictures/my%20awesome%20wm%202023%20new.png)
+![alt text](https://raw.githubusercontent.com/Senithumadiv/awesome/main/my%20awesome%20wm%202023%20new.png)
 
 ### 1) Get all the dependencies
 
