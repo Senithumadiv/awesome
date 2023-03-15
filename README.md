@@ -7,7 +7,7 @@ I made some of my configs from chris titus https://github.com/ChrisTitusTech on 
 #### Debian-Based
 
 ```
-sudo apt install awesome fonts-roboto rofi compton i3lock xclip qt5-style-plugins materia-gtk-theme lxappearance xbacklight flameshot nautilus xfce4-power-manager pnmixer network-manager-gnome policykit-1-gnome -y
+sudo apt install awesome fonts-roboto rofi compton i3lock xclip qt5-style-plugins materia-gtk-theme lxappearance xbacklight flameshot nautilus xfce4-power-manager pnmixer network-manager-gnome picom policykit-1-gnome -y
 wget -qO- https://git.io/papirus-icon-theme-install | sh
 ```
 
