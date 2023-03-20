@@ -37,13 +37,8 @@ yay -S awesome rofi picom i3lock-fancy xclip ttf-roboto polkit-gnome materia-the
 
 ### 2) Clone the configuration
 
-Arch-Based Installs
-```
-git clone https://github.com/ChrisTitusTech/titus-awesome ~/.config/awesome
-```
-
 Debian-Based Installs
 ```
-git clone --branch debian https://github.com/ChrisTitusTech/titus-awesome ~/.config/awesome
+git clone --branch debian https://github.com/Senithumadiv/awesome.git ~/.config/awesome
 ```
 
