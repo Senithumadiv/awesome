@@ -11,12 +11,6 @@ sudo apt install awesome fonts-roboto rofi compton i3lock xclip qt5-style-plugin
 wget -qO- https://git.io/papirus-icon-theme-install | sh
 ```
 
-#### Arch-Based
-
-```
-yay -S awesome rofi picom i3lock-fancy xclip ttf-roboto polkit-gnome materia-theme lxappearance flameshot pnmixer network-manager-applet xfce4-power-manager qt5-styleplugins papirus-icon-theme -y
-```
-
 #### Program list
 
 - [AwesomeWM](https://awesomewm.org/) as the window manager - universal package install: awesome
