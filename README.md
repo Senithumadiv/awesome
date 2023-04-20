@@ -26,7 +26,7 @@ wget -qO- https://git.io/papirus-icon-theme-install | sh
 - [pnmixer](https://github.com/nicklan/pnmixer) Audio Tray icon that is in debian repositories and is easily installed on arch through AUR.
 - [network-manager-applet](https://gitlab.gnome.org/GNOME/network-manager-applet) nm-applet is a Network Manager Tray display from GNOME.
 - [xfce4-power-manager](https://docs.xfce.org/xfce/xfce4-power-manager/start) XFCE4's power manager is excellent and a great way of dealing with sleep, monitor timeout, and other power management features.
-- [Catppuccine Theme](https://www.gnome-look.org/p/1715554/) The theme i am using.
+- [Catppuccine Theme]([https://www.gnome-look.org/p/1715554/](https://github.com/catppuccin)) The theme i am using.
 ### 2) Clone the configuration
 
 Debian-Based Installs
